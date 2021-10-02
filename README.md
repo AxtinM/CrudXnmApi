@@ -1,13 +1,9 @@
-# platforminventory
+## Xnm API version 1.0.0
 
-Xnm API version 1.0.0
+this is a **CRUD** application with a **SWAGGER UI** for api doccumentation
 
-this is a CRUD application with a SWAGGER UI for api doccumentation
+###### Testing our api:
 
-to test our api:
-
-1- pip install -r requirements.txt
-2- python manage.py runserver
-3- open : 127.0.0.1:8000/stock/docs
-
-
+- pip install -r requirements.txt
+- python manage.py runserver
+- open : 127.0.0.1:8000/stock/docs
